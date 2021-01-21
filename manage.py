@@ -1,4 +1,5 @@
 import os, sys, argparse, subprocess, signal
+# prova test
 
 # Project defaults
 FLASK_APP = 'server/__init__.py'
